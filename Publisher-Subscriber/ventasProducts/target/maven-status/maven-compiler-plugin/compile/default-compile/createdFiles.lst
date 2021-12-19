@@ -1,0 +1,4 @@
+co\unicauca\subscriber\ventasproduct\presentacion\ventasProducts$1.class
+co\unicauca\subscriber\ventasproduct\infra\ISubscriber.class
+co\unicauca\subscriber\ventasproduct\infra\RabbitListener.class
+co\unicauca\subscriber\ventasproduct\presentacion\ventasProducts.class

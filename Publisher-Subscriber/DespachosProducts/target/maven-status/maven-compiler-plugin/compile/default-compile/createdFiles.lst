@@ -1,0 +1,4 @@
+co\unicauca\subscriber\despachosproducts\infra\RabbitListener.class
+co\unicauca\subscriber\despachosproducts\presentacion\DespachosProducts$1.class
+co\unicauca\subscriber\despachosproducts\presentacion\DespachosProducts.class
+co\unicauca\subscriber\despachosproducts\infra\ISubscriber.class
